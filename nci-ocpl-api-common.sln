@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCI.OCPL.Api.Common", "src\NCI.OCPL.Api.Common\NCI.OCPL.Api.Common.csproj", "{3C6CBB6D-0E80-4110-9FBF-CB519964A48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCI.OCPL.Api.Common.Testing", "src\NCI.OCPL.Api.Common.Testing\NCI.OCPL.Api.Common.Testing.csproj", "{56DDB82A-C5A3-4136-A641-FBC4425449F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6CBB6D-0E80-4110-9FBF-CB519964A48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6CBB6D-0E80-4110-9FBF-CB519964A48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6CBB6D-0E80-4110-9FBF-CB519964A48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6CBB6D-0E80-4110-9FBF-CB519964A48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56DDB82A-C5A3-4136-A641-FBC4425449F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DDB82A-C5A3-4136-A641-FBC4425449F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DDB82A-C5A3-4136-A641-FBC4425449F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DDB82A-C5A3-4136-A641-FBC4425449F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
